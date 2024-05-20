@@ -1,0 +1,17 @@
+.input-container span {
+  position: absolute;
+  right: 10px;
+  top: 1%;
+  cursor: pointer;
+}
+.input-container {
+  position: relative;
+  width: max-content;
+}
+.App {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4px;
+}
